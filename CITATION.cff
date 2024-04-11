@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AstrokinetixRunSplid
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jeffrey
+    family-names: Beck
+    email: jeff@astrokinetix.com
+repository-code: 'https://github.com/beckja/mit-ai-2024'
+keywords:
+  - Space Situational Awareness
+  - Geosynchronous Satellite
+  - Satellite Maneuver Detection
+  - Station-Keeping
+license: MIT
+date-released: '2024-04-11'
